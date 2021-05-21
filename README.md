@@ -28,9 +28,9 @@ More details in ./react-app/package.json
  * [Cors](https://github.com/rs/cors)
 
 ## To Run
-```console
-bar@foo:./go/src/$ go run GKuiz2.go
-bar@foo:./react-app/$ yarn start
+```bash
+bar@foo:~/GKuiz2/go/src/$ go run GKuiz2.go
+bar@foo:~/GKuiz2/react-app/$ yarn start
 ```
 
 ## Author
